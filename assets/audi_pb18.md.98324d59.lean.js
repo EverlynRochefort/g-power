@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.19f61efe.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audi_pb18.md","filePath":"audi_pb18.md"}'),r={name:"audi_pb18.md"};function o(s,c,n,p,_,d){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
